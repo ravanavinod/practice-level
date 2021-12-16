@@ -8,5 +8,6 @@
 <body>
 	<h1>Sample Project</h1>
 	<p>Sample content</p>
+	<p>Git content going on now</p>
 </body>
 </html>
