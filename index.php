@@ -7,5 +7,6 @@
 
 <body>
 	<h1>Sample Project</h1>
+	<p>Sample content</p>
 </body>
 </html>
